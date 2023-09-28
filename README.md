@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, eu sou o Euller, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/euller-maso-8a13b721a/"><img src="https://img.shields.io/badge/-euller-maso-8a13b721a?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/euller-maso-8a13b721a/"><img src="https://img.shields.io/badge/-Euller%20Maso-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:euller.maso@gmail.com"><img src="https://img.shields.io/badge/-euller.maso@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
