@@ -11,7 +11,7 @@
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com programação aos 12 anos atrvés do Scratch, programação em bloco. Depois de utilizar meu conhecimento que adquiri para desenvolver um jogo simples com a programação em bloco, vi que poderia seguir por esse caminho. Apósalguns anos tive contato com linguagem de programação no ensino técnico, mas a partir do momento que resolvi seguir nesta área, mergulhei neste mundo da programação.
 - 💚 &nbsp; Conforme eu fui adquirindo experiência na área, fui desenvolvendo alguns projetos e cada dia busco evoluir mais e mais o meu conhecimento.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- 🏎 &nbsp; Sou apaixonado por música mais especificamente tocar instrumentos, especialmente contrabaixo, e costumo jogar futebol no meu tempo livre e acmpanhar etapas de surf. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
+- :satisfied: `:satisfied` &nbsp; Sou apaixonado por música mais especificamente tocar instrumentos, especialmente contrabaixo, e costumo jogar futebol no meu tempo livre e acmpanhar etapas de surf. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
